@@ -1,4 +1,4 @@
-FROM centos7
+FROM centos
 MAINTAINER jason "xiaomengweihan@qq.com"
 
 #安装JDK
